@@ -1,0 +1,27 @@
+
+.main-block {
+  justify-content: center;
+  margin-top: 100px;
+}
+.main-block-1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.list {
+  width: 600px;
+  height: 400px;
+  overflow: auto;
+}
+
+.input {
+  width: 400px;
+  height: 25px;
+  margin-left: 60px;
+}
+
+.addButton {
+    height: 32px;
+    margin-left: 5px;
+}

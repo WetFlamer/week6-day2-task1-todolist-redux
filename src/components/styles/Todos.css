@@ -1,0 +1,18 @@
+.todos {
+    display: flex;
+}
+.deleteButton {
+    margin-left: 30px;
+}
+.text {
+    font-size: 30px;
+}
+.inputS {
+    margin-left: 50px;
+    margin-right: 30px;
+}
+.textChecked {
+    font-size: 30px;
+    color: red;
+    text-decoration: line-through;
+}
